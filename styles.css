@@ -1,4 +1,6 @@
-/*Google Font*/
+Google Font * {
+    border: 1px solid red;
+}
 
 
 :root {
@@ -27,10 +29,11 @@
 body {
     font-family: "Poetsen One", sans-serif;
     font-weight: 400;
-    font-style: normal;    
+    font-style: normal;
 }
 
-.row-1, .row-2 {
+.row-1,
+.row-2 {
     background-color: #383337;
 }
 
@@ -95,6 +98,10 @@ section.hero p {
 
 section.partnered {
     padding: 5rem 0;
+}
+
+.about {
+    background-color: #f7f7f7;
 }
 
 @media (min-width: 1399.38px) {
