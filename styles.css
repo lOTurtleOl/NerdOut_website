@@ -5,11 +5,16 @@ Google Font * {
 
 :root {
     --primary-color: #28a745;
+    --background-color: #f7f7f7;
 }
 
 /* Text Colors */
 .text-primary {
     color: var(--primary-color) !important;
+}
+
+.bkg-secondary {
+    background-color: var(--background-color) !important;
 }
 
 /* Custom Scrollbar */
@@ -91,6 +96,10 @@ body {
     line-height: 91px;
 }
 
+.hero-2 {
+    height: 100vh;
+}
+
 section.hero p {
     font-size: 18px;
     line-height: 23px;
@@ -100,7 +109,7 @@ section.partnered {
     padding: 5rem 0;
 }
 
-.about {
+.offer {
     background-color: #f7f7f7;
 }
 
