@@ -1,6 +1,4 @@
-Google Font * {
-    border: 1px solid red;
-}
+
 
 
 :root {
@@ -46,6 +44,8 @@ body {
     height: 50px;
     width: auto;
 }
+
+
 
 /* Button */
 .btn {
@@ -111,6 +111,16 @@ section.partnered {
 
 .offer {
     background-color: #f7f7f7;
+}
+
+.container-form {
+    .container {
+        margin: auto;
+        width: 80%;
+        background-color: #eeeeee;
+        padding: 25px;
+        border-radius: 5px;
+    } 
 }
 
 @media (min-width: 1399.38px) {
