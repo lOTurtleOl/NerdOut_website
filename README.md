@@ -123,7 +123,7 @@ Nerd Out is a premier gaming cafe designed for enthusiasts and casual players al
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/lOTurtleOl/NerdOut_website.git
+   git clone https://github.com/lOTurtleOl/nerd-out-gaming-cafe.git
     cd nerd-out-gaming-cafe
     open index.html
 
